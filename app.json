@@ -1,11 +1,11 @@
 {
-  "name": "SmokerMusicX",
+  "name": "ʜɴʏ ʀᴏʙᴏ",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/princessop/CANDYxMUSICS",
+  "repository": "https://github.com/HNY-OP/HNY-MUSIC",
   "stack": "container",
   "env": {
-    "SESSION_NAME": {
+    "SESSION_NAME": {   
       "description": "Pyrogram session string",
       "required": true
     },
